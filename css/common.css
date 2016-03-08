@@ -1,0 +1,82 @@
+/*header-nav*/
+
+.navbar-default{
+    background-color: #34495e;
+    border-bottom: 0px;
+}
+
+.navbar.navbar-default.navbar-fixed-top{
+	padding-top: 1%;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #b0b7be;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#b0b7be;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color:white;
+	background-color:#2c3e50; 
+	border-radius: 10px;
+}
+/*Datos-prefooter*/
+
+.datos-prefooter{
+  background-color:#34495E;
+  color: white;
+  padding: 3% 0% 5%; 
+}
+
+.datos-prefooter h4{
+  font-weight: 200;
+}
+
+
+.datos-prefooter p,.datos-prefooter small,.datos-prefooter address,.datos-prefooter ul.company li a,.datos-prefooter div.media span a{
+  color: #b3bac0;
+  font-weight: 200; 
+}
+
+.datos-prefooter p,.datos-prefooter small,.datos-prefooter address,.datos-prefooter ul.company li a,.datos-prefooter div.media span a:hover{
+  text-decoration: none;
+}
+
+a.compa:hover{
+  color:#2ecc71 !important;
+}
+
+span.compa:hover a{
+  color:#2ecc71 !important;
+}
+
+/*--FOOTER--*/
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #bdc3c7;
+  background-color: #313F4C;
+}
+footer a {
+  color: #bdc3c7;
+  font-weight: 200;
+}
+
+footer a:hover {
+  color: #d9534f;
+  text-decoration:none;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
