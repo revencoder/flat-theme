@@ -25,6 +25,10 @@ p{
 }
 
 /*-------------ABOUT-US-----------------*/
+body{
+  background-color: #f5f5f5;
+}
+
 .box{
   padding: 2%;
 }
