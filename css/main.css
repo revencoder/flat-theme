@@ -24,32 +24,11 @@ p{
 	padding: 0;
 }
 
+
+  
+
 /*-------------HOME/INDEX-----------------*/
 
-/*header-nav*/
-
-.navbar-default{
-    background-color: #34495e;
-    border-bottom: 0px;
-}
-
-.navbar.navbar-default.navbar-fixed-top{
-	padding-top: 1%;
-}
-
-.navbar-default .navbar-nav>li>a {
-    color: #b0b7be;
-}
-
-.navbar-default .navbar-nav>li>a{
-	color:#b0b7be;
-}
-
-.navbar-default .navbar-nav>li>a:hover{
-	color:white;
-	background-color:#2c3e50; 
-	border-radius: 10px;
-}
 
 /*carrousel*/
 
@@ -302,37 +281,158 @@ span.compa:hover a{
   color:#2ecc71 !important;
 }
 
-/*--FOOTER--*/
 
-footer {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  color: #bdc3c7;
-  background-color: #313F4C;
-}
-footer a {
-  color: #bdc3c7;
-  font-weight: 200;
-}
-
-footer a:hover {
-  color: #d9534f;
-  text-decoration:none;
-}
-
-footer ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-footer ul > li {
-  display: inline-block;
-  margin-left: 15px;
-}
 /*-------------HOME/INDEX-----------------*/
 
 
+/*-------------ABOUT-US-----------------*/
+.box{
+  padding: 2%;
+}
+
+.box-dos{
+  padding-top:4%;
+  padding-bottom: 4%;
+}
+
+
+.text-center:{
+  text-align: center;
+}
+
+.title-green{
+    background-color: #2ecc71;
+    color: white;
+    padding-top: 8%;
+    padding-bottom: 4%;
+}
+
+.title-green h1{
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.title-green p{
+  font-weight: 100;
+}
+
+.breadcrumb{
+    background-color: #2ecc71;
+    padding-top: 7%;
+    font-size: 16px;
+    color:white;
+}
+
+ul.breadcrumb.pull-right li a, ul.breadcrumb.pull-right li{
+    color: white;
+    font-weight: 100;
+}
+
+ul.breadcrumb.pull-right li a:hover{
+    text-decoration: none;
+    color:#34495e;
+    font-weight: 400;
+}
+
+.whatweare{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.whatweare h1{
+  font-weight: 200;
+  color:#34495e;
+  padding-bottom: 1%;
+}
+
+.whatweare h2{
+  font-weight: 200;
+  color:#34495e;
+  padding-bottom: 2%;
+}
+
+.whatweare p{
+  font-weight: 200;
+  color:#34495e;
+}
+
+.whatweare h5{
+  font-weight: 200;
+  color:#34495e;
+}
+
+.progress {
+    height: 30px;
+    line-height: 30px;
+}
+/*REDES-SOCIALES*/
+a.btn.btn-social.btn-facebook{
+  background-color:#4f7dd4;
+  height:35px;
+  width: 35px;
+  border-radius: 50%;
+  color:white;
+  line-height: 20px;
+}
+
+a.btn.btn-social.btn-google-plus{
+  background-color:#dc422b;
+  height:35px;
+  width: 35px;
+  border-radius: 50%;
+  color:white;
+  line-height: 20px;
+}
+
+a.btn.btn-social.btn-twitter{
+  background-color:#5bceff;
+  height:35px;
+  width: 35px;
+  border-radius: 50%;
+  color:white;
+  line-height: 20px;
+}
+
+a.btn.btn-social.btn-linkedin {
+  background-color:#21a6d8;
+  height:35px;
+  width: 35px;
+  border-radius: 50%;
+  color:white;
+  line-height: 20px;
+}
+
+.text-center p{
+  padding-bottom: 3%;
+}
+/*-------------ABOUT-US-----------------*/
+
+/*-------------SERVICES-----------------*/
+
+.whatwedo{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.pt-3{
+  padding-top: 3%;
+}
+
+.whatwedo h2{
+  color:#34495e;
+  font-weight: 200;
+  padding-bottom: 1%;
+}
+
+.whatwedo h3{
+  color:#34495e;
+  font-weight: 400;
+  padding-bottom: 1%;
+}
+
+.whatwedo p{
+  color:#34495e;
+  font-weight: 200;
+}
+/*-------------SERVICES-----------------*/
 
 
 

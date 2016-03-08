@@ -1,0 +1,71 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+
+h1, h2, h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+	margin:0;
+	padding: 0;
+}
+
+/*-------------SERVICES-----------------*/
+
+.whatwedo{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.pt-3{
+  padding-top: 3%;
+}
+
+.whatwedo h2{
+  color:#34495e;
+  font-weight: 200;
+  padding-bottom: 1%;
+}
+
+.whatwedo h3{
+  color:#34495e;
+  font-weight: 400;
+  padding-bottom: 1%;
+}
+
+.whatwedo p{
+  color:#34495e;
+  font-weight: 200;
+}
+
+.icon-social {
+    font-size: 34px;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    display: block;
+    border-radius: 50%;
+}
+/*-------------SERVICES-----------------*/
+
+
+
+
+
+
