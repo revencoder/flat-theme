@@ -1,7 +1,7 @@
 /* After-nav */
 .after-nav {
 	background-color: #2ECC71;
-	padding: 9% 0 5%;
+	padding: 130px 0 70px;
     color: white;
 }
 .box-left {
@@ -35,8 +35,8 @@
 .box-gallery .img {
 	background-image: url(../images/portfolio/full/item1.jpg);
 	background-size: cover;
-	height: 230px;
 	margin-bottom: 10px;
+	height:230px;
 }
 .box-gallery .img2 {
 	background-image: url(../images/portfolio/full/item2.jpg);
@@ -63,4 +63,28 @@
 .mt-2{
 	margin-top: 2%;
 }
-/*-------------- PORTFOLIO ---------*/
+/*-------------- PORTFOLIO RESPONSIVE---------*/
+
+@media screen and (min-width:299px) and (max-width:800px) {
+    .box-gallery .img {
+	background-image: url(../images/portfolio/full/item1.jpg);
+	background-size: cover;
+	height: 100px;
+	margin-bottom: 10px;
+    }
+    .box-gallery .img2 {
+	background-image: url(../images/portfolio/full/item2.jpg);
+    }
+    .box-gallery .img3 {
+	background-image: url(../images/portfolio/full/item3.jpg);
+    }
+    .box-gallery .img4 {
+	background-image: url(../images/portfolio/full/item4.jpg);
+    }
+    .box-gallery .img5 {
+	background-image: url(../images/portfolio/full/item5.jpg);
+    }
+    .box-gallery .img6 {
+	background-image: url(../images/portfolio/full/item6.jpg);
+    }
+}
