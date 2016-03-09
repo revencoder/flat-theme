@@ -106,6 +106,7 @@ ul.breadcrumb.pull-right li a:hover{
 .progress {
     height: 30px;
     line-height: 30px;
+    background: white;
 }
 /*REDES-SOCIALES*/
 a.btn.btn-social.btn-facebook{
