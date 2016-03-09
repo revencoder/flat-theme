@@ -435,5 +435,122 @@ a.btn.btn-social.btn-linkedin {
 /*-------------SERVICES-----------------*/
 
 
+/*MEDIA QUERIES*/
+
+@media screen and (min-width: 1024px) and (max-width: 1600px) {
+   body
+   
+
+
+}
+
+
+@media screen and (min-width: 667px) and (max-width: 1024px) {
+   body
+   
+}
+
+
+@media screen and (min-width: 500px) and (max-width: 667px) {
+   
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    #main-slider .carousel .item {
+          height: 400px;
+          margin-top: 18%;
+    }
+    #main-slider .carousel h2{
+          font-size: 26px;
+          bottom: 52px;
+          position: relative;
+    } 
+
+    #main-slider .carousel p {
+          bottom: 50px;
+          position: relative;
+    }
+    .media{
+        margin-bottom: 10%;
+    }
+    .media-heading {
+    margin: 24px 0 5px;
+    }
+
+    .icon-social {
+        margin-top: 50%;
+    }
+
+    .our-lp h3 {
+      padding-bottom: 0%;
+      padding-top: 15%;
+      font-size: 20px;
+    }
+
+   .btn-group, .btn-group-vertical{
+      margin-bottom: 20%;
+   }
+    .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){
+      width: 29px;
+      height: 33px
+    }
+
+    .btn-group>.btn:last-child:not(:first-child), .btn-group>.dropdown-toggle:not(:first-child){
+      width: 29px;
+      height: 33px
+    }
+    
+    h5{
+      white-space: nowrap !important;
+      overflow: hidden !important;
+      text-overflow: ellipsis !important;
+    }
+
+    .wos h2{
+      padding-top: 20%;
+      padding-bottom: 5%;
+      font-size: 25px;
+    }
+
+    .text-center p {
+    padding-bottom: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+    }
+
+    blockquote p{
+      font-size: 15px;
+    }
+    
+    .wos small {
+      font-size: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
