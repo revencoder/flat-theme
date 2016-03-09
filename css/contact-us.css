@@ -1,0 +1,47 @@
+/* -- After-nav --*/
+.after-nav {
+	background-color: #2ECC71;
+	padding: 9% 0 5%;
+    color: white;
+}
+.box-left {
+	float: left;
+}
+.box-right {
+	float: right;
+	margin-top: 3%;
+}
+.box-right a{
+    text-decoration: none;
+    color: white;
+    margin: 7px;
+}
+.box-right a:hover{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+}
+/* Contact-Us */
+.contact{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.form-contact h4 {
+    margin-left: 10px;
+}
+.form-contact input, .form-contact button {
+    display: block;
+    margin: 10px;
+}
+.submit {
+    background: #428BCA;
+    padding: 10px 15px;
+    color: white;
+    border:1px solid #428BCA;
+}
+.box-message {
+    padding-top: 13.5%;
+}
+.box-maps iframe {
+    width: 100%;
+}

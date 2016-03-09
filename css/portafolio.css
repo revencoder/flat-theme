@@ -1,0 +1,66 @@
+/* After-nav */
+.after-nav {
+	background-color: #2ECC71;
+	padding: 9% 0 5%;
+    color: white;
+}
+.box-left {
+	float: left;
+}
+.box-right {
+	float: right;
+	margin-top: 3%;
+}
+.box-right a{
+    text-decoration: none;
+    color: white;
+    margin: 7px;
+}
+.box-right a:hover{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+}
+/* Section */
+.box-gallery {
+	background-color: #F5F5F5;
+}
+.box-img {
+	background: white;
+    padding: 3%;
+    box-shadow: 1px 0.2px 1px 1px silver;
+    margin-top: 28px;
+
+}
+.box-gallery .img {
+	background-image: url(../images/portfolio/full/item1.jpg);
+	background-size: cover;
+	height: 230px;
+	margin-bottom: 10px;
+}
+.box-gallery .img2 {
+	background-image: url(../images/portfolio/full/item2.jpg);
+}
+.box-gallery .img3 {
+	background-image: url(../images/portfolio/full/item3.jpg);
+}
+.box-gallery .img4 {
+	background-image: url(../images/portfolio/full/item4.jpg);
+}
+.box-gallery .img5 {
+	background-image: url(../images/portfolio/full/item5.jpg);
+}
+.box-gallery .img6 {
+	background-image: url(../images/portfolio/full/item6.jpg);
+}
+.box-gallery p {
+	color: #2C3E50;
+}
+/* Utilities */
+.mb-6{
+	margin-bottom: 6%;
+}
+.mt-2{
+	margin-top: 2%;
+}
+/*-------------- PORTFOLIO ---------*/

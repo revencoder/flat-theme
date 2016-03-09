@@ -1,0 +1,70 @@
+/* BLOG ITEM */
+.box-text .span-tags span {
+    font-size: 1.1rem;
+    padding: 5px 10px;
+    font-weight: normal;
+    color: white;
+    margin: 0;
+    border-radius: 3px;
+}
+/* Commit-post */
+.post {
+	background: #F5F5F5;
+	border-radius: 3px;
+	padding: 3%;
+	margin-top: 30px;
+}
+.post img {
+	border: 5px solid white;
+	border-radius: 3px;
+	float: left;
+}
+.post p {
+	margin-left: 100px;
+}
+.commit-1 img {
+	float: left;
+	border-radius: 100%;
+}
+.text-commit {
+	background-color: #F5F5F5;
+	padding: 3%;
+	margin-left: 60px;
+	border-radius: 3px;
+	color: #2C3E50;
+}
+.text-commit p span {
+	color: #2C3E50;
+}
+.pull-right {
+	float: right;
+}
+.commit-2 {
+    margin-left: 60px;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.commit-2 img {
+	float: left;
+    border-radius: 100%;
+}
+.form-leave .submit {
+    background: #D9534F;
+    color: white;
+    border: 1px solid #D9534F;
+    padding: 10px 15px;
+    font-size: 19px;
+    border-radius: 7px;
+}
+.form-leave .submit:hover {
+    background: white;
+    color: black;
+    border: 1px solid black;
+    padding: 10px 15px;
+    font-size: 19px;
+    border-radius: 7px;
+}
+/* Utilities */
+.fz-11{
+	font-size: 11px !important;
+}
